@@ -103,5 +103,15 @@ and install the tools you'll need.
 
 ### File Systems
 
+# Completed
+- initial-utilites
+- initial-reverse
+- intial-xv6
+- scheduling-xv6-lottery
+- process-shell (without parallel command support for now)
+
+# Doing 
+- concurrency-pzip (parallel zip)
+
 
 
